@@ -5,3 +5,9 @@ VCS (Version Control System)
 1. Git
 1. Darcs
 
+```bash
+git checkout -b mohamed
+git branch -a
+git diff
+```
+
