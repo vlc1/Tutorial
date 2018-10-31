@@ -18,7 +18,7 @@ git commit -m "Initial commit"
 git log
 ```
 
-# Étape 2
+## Étape 2
 
 ```bash
 vi test.f90
@@ -30,5 +30,13 @@ git commit -m "Hello World fortran example"
 vi README.md
 git add README.md
 git commit --amend
+```
+
+## Étape 3
+
+```bash
+git checkout -b mohamed
+git branch -a
+git diff
 ```
 
